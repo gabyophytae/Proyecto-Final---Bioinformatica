@@ -1,0 +1,140 @@
+IQ-TREE 1.6.11 built Jun  6 2019
+
+Input file name: /tmp/IQTREE/rfaIPIrNWW/seqin.fst
+Type of analysis: tree reconstruction
+Random seed number: 27827
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 28 sequences with 669 nucleotide sites
+Number of constant sites: 636 (= 95.0673% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 636 (= 95.0673% of all sites)
+Number of parsimony informative sites: 14
+Number of distinct site patterns: 35
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+FO
+
+Rate parameter R:
+
+  A-C: 0.1782
+  A-G: 3.7360
+  A-T: 0.0001
+  C-G: 0.0001
+  C-T: 4.4417
+  G-T: 1.0000
+
+State frequencies: (estimated with maximum likelihood)
+
+  pi(A) = 0.3266
+  pi(C) = 0.2461
+  pi(G) = 0.118
+  pi(T) = 0.3094
+
+Rate matrix Q:
+
+  A   -0.4548   0.04113    0.4136  2.903e-05
+  C   0.05459    -1.344  1.107e-05     1.289
+  G     1.145  2.309e-05    -1.435    0.2903
+  T  3.064e-05     1.025    0.1107    -1.136
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1154.7048 (s.e. 42.1283)
+Unconstrained log-likelihood (without tree): -1091.3053
+Number of free parameters (#branches + #model parameters): 61
+Akaike information criterion (AIC) score: 2431.4095
+Corrected Akaike information criterion (AICc) score: 2443.8708
+Bayesian information criterion (BIC) score: 2706.2624
+
+Total tree length (sum of branch lengths): 0.0553
+Sum of internal branch lengths: 0.0165 (29.7801% of tree length)
+
+WARNING: 22 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'KF460498.1_Puma_concolor_Hap03__ND5__gene' is drawn at root
+
++------------------------KF460498.1_Puma_concolor_Hap03__ND5__gene
+|
+|                                                              +*******KF460520.1_Puma_concolor_Hap25__ND5__gene
+|                            +---------------------------------|
+|                            |                                 |        +*******KF460521.1_Puma_concolor_Hap26__ND5__gene
+|                            |                                 |     +**|
+|                            |                                 |     |  +*******KF460522.1_Puma_concolor_Hap27__ND5__gene
+|                            |                                 |  +**|
+|                            |                                 |  |  +**KF460518.1_Puma_concolor_Hap23__ND5__gene
+|                            |                                 +**|
+|                            |                                    +*******KF460523.1_Puma_concolor_Hap28__ND5__gene
+|                         +**|
+|                         |  +----------------KF460513.1_Puma_concolor_Hap18__ND5__gene
+|                      +**|
+|                      |  |                        +*******KF460517.1_Puma_concolor_Hap22__ND5__gene
+|                      |  |                     +**|
+|                      |  |                     |  |             +*******KF460514.1_Puma_concolor_Hap19__ND5__gene
+|                      |  |                     |  |          +**|
+|                      |  |                     |  |          |  |       +*******KF460507.1_Puma_concolor_Hap12__ND5__gene
+|                      |  |                     |  |          |  +*******|
+|                      |  |                     |  |          |          +**KF460511.1_Puma_concolor_Hap16__ND5__gene
+|                      |  |                     |  |       +**|
+|                      |  |                     |  |       |  +**KF460504.1_Puma_concolor_Hap09__ND5__gene
+|                      |  |                     |  +*******|
+|                      |  |                     |          +*******KF460515.1_Puma_concolor_Hap20__ND5__gene
+|                      |  |                  +**|
+|                      |  |                  |  |  +*******KF460503.1_Puma_concolor_Hap08__ND5__gene
+|                      |  |                  |  +**|
+|                      |  |                  |     +*******KF460516.1_Puma_concolor_Hap21__ND5__gene
+|                      |  |               +**|
+|                      |  |               |  +**KF460502.1_Puma_concolor_Hap07__ND5__gene
+|                      |  |       +*******|
+|                      |  |       |       +*******KF460500.1_Puma_concolor_Hap05__ND5__gene
+|                      |  +*******|
+|                      |          |  +*******KF460506.1_Puma_concolor_Hap11__ND5__gene
+|                      |          +**|
+|                      |             +**KF460501.1_Puma_concolor_Hap06__ND5__gene
+|                   +**|
+|                   |  |     +*******KF460499.1_Puma_concolor_Hap04__ND5__gene
+|                   |  |  +**|
+|                   |  |  |  |       +*******KF460496.1_Puma_concolor_Hap01__ND5__gene
+|                   |  |  |  +*******|
+|                   |  |  |          +**KF460508.1_Puma_concolor_Hap13__ND5__gene
+|                   |  +**|
+|                   |     +**KF460497.1_Puma_concolor_Hap02__ND5__gene
+|                +**|
+|                |  +*******KF460505.1_Puma_concolor_Hap10__ND5__gene
++----------------|
+|                |                   +*******KF460509.1_Puma_concolor_Hap14__ND5__gene
+|                |                +**|
+|                |                |  +**KF460510.1_Puma_concolor_Hap15__ND5__gene
+|                +----------------|
+|                                 +*******KF460512.1_Puma_concolor_Hap17__ND5__gene
+|
++----------------KF460519.1_Puma_concolor_Hap24__ND5__gene
+
+Tree in newick format:
+
+(KF460498.1_Puma_concolor_Hap03__ND5__gene:0.0044941511,((((((KF460520.1_Puma_concolor_Hap25__ND5__gene:0.0014914054,(((KF460521.1_Puma_concolor_Hap26__ND5__gene:0.0014909484,KF460522.1_Puma_concolor_Hap27__ND5__gene:0.0014914154):0.0000020879,KF460518.1_Puma_concolor_Hap23__ND5__gene:0.0000024602):0.0000022532,KF460523.1_Puma_concolor_Hap28__ND5__gene:0.0014914146):0.0000020024):0.0059873311,KF460513.1_Puma_concolor_Hap18__ND5__gene:0.0029820999):0.0000022399,(((((KF460517.1_Puma_concolor_Hap22__ND5__gene:0.0014888469,(((KF460514.1_Puma_concolor_Hap19__ND5__gene:0.0014869876,(KF460507.1_Puma_concolor_Hap12__ND5__gene:0.0014883047,KF460511.1_Puma_concolor_Hap16__ND5__gene:0.0000023687):0.0014883051):0.0000024436,KF460504.1_Puma_concolor_Hap09__ND5__gene:0.0000021824):0.0000020707,KF460515.1_Puma_concolor_Hap20__ND5__gene:0.0014891664):0.0014878385):0.0000020314,(KF460503.1_Puma_concolor_Hap08__ND5__gene:0.0014878421,KF460516.1_Puma_concolor_Hap21__ND5__gene:0.0014873773):0.0000021986):0.0000021480,KF460502.1_Puma_concolor_Hap07__ND5__gene:0.0000024602):0.0000024414,KF460500.1_Puma_concolor_Hap05__ND5__gene:0.0014878390):0.0014887016,(KF460506.1_Puma_concolor_Hap11__ND5__gene:0.0014907826,KF460501.1_Puma_concolor_Hap06__ND5__gene:0.0000020314):0.0000020479):0.0014900197):0.0000020912,((KF460499.1_Puma_concolor_Hap04__ND5__gene:0.0014904842,(KF460496.1_Puma_concolor_Hap01__ND5__gene:0.0014904842,KF460508.1_Puma_concolor_Hap13__ND5__gene:0.0000021306):0.0014904842):0.0000021000,KF460497.1_Puma_concolor_Hap02__ND5__gene:0.0000024602):0.0000021873):0.0000022316,KF460505.1_Puma_concolor_Hap10__ND5__gene:0.0014904841):0.0000021433,((KF460509.1_Puma_concolor_Hap14__ND5__gene:0.0014914146,KF460510.1_Puma_concolor_Hap15__ND5__gene:0.0000021791):0.0000022200,KF460512.1_Puma_concolor_Hap17__ND5__gene:0.0014909449):0.0029856960):0.0029834649,KF460519.1_Puma_concolor_Hap24__ND5__gene:0.0029979831);
+
+TIME STAMP
+----------
+
+Date and time: Sun Jun 23 20:02:14 2024
+Total CPU time used: 3.10975 seconds (0h:0m:3s)
+Total wall-clock time used: 3.13372 seconds (0h:0m:3s)
+
