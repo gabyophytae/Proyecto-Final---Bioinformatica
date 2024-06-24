@@ -57,9 +57,7 @@ The applied methods for this project involved commands learned in GitBash throug
 #### **Results**
 
 
-![**Figure 2.**Phylogeny of the ND5 gene. Each code from the tip branch represents the 18 puma individuals from which genetic samples were collected.]
-
-(https://raw.githubusercontent.com/gabyophytae/Proyecto-Final-Pumas-Bioinformatica/main/Resultados/Filogenia%20pumas.tree.jpg)
+![**Figure 2.**Phylogeny of the ND5 gene. Each code from the tip branch represents the 18 puma individuals from which genetic samples were collected.](https://raw.githubusercontent.com/gabyophytae/Proyecto-Final-Pumas-Bioinformatica/main/Resultados/Filogenia%20pumas.tree.jpg)
 
 #### **Discussion**
 
