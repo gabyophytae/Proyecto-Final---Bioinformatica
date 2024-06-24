@@ -2,9 +2,9 @@
 
 #### GABRIELA SANDOVAL
 
-## *PUMA CONCOLOR*: STUDY OF AMERICAN POPULATIONS 
+## *PUMA CONCOLOR*: STUDY OF SOUTH AMERICAN POPULATIONS 
 
-The present research project focuses on studying the populations of pumas in America, aiming to obtain precise data on their distribution, population density, and behavior. Additionally, it seeks to understand the main threats they face and to develop effective conservation strategies.
+The present research project focuses on studying the populations of pumas in South America, aiming to obtain precise data on their distribution, population density, and behavior. Additionally, it seeks to understand the main threats they face and to develop effective conservation strategies.
 
 ### RESEARCH QUESTIONS
 
@@ -18,7 +18,7 @@ The present research project focuses on studying the populations of pumas in Ame
 
 3. **What will be done with this data?**
 
-  The genomic analysis tools will be applied to study and determine the status of puma       populations in mainland Ecuador.
+  The genomic analysis tools will be applied to study and determine the status of pumas populations in South America.
 
 
 ### ECOLOGICAL DATA
